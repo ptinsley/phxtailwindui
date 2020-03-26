@@ -4,4 +4,5 @@
 @tailwind components;
 @tailwind utilities;
 
- @import "./phoenix.css";
+/* You probably don't actually want this, and having an import here will likely break PostCSS */
+/* @import "./phoenix.css"; */
