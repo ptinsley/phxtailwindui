@@ -2,6 +2,7 @@
 Get tailwind UI in phoenix
 
 Steps Taken:
+* mix archive.install hex phx_new 1.5.3 (replace this with whatever the latest version is)
 * mix phx.new phxtailwindui
 * cd assets
 * npm install tailwindcss @tailwindcss/ui --save-dev
